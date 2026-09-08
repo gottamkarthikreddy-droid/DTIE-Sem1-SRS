@@ -4,7 +4,7 @@ Title: Development of a Campus Classroom Seat Reservation System for Improved Sp
 
 Problem & Context
 
-Universities often struggle to manage classroom seating effectively. Without a clear reservation system, classrooms become overcrowded, students face difficulty finding accessible seats, and school administrators lack real-time data on how campus spaces are actually used.
+Universities often struggle to manage classroom seating effectively. Without a clear reservation system, classrooms become overcrowded, students face difficulty finding accessible seats, and school administrators lack real-time data on how campus spaces are actually used. A universal organising app that is easy to use and intuitive to build upon is a efficient and methodical way to achieve the solution to this problem.  
 
 Objective
 
