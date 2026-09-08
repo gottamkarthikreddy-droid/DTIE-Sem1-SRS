@@ -1,0 +1,27 @@
+Abstract
+
+Title: Development of a Campus Classroom Seat Reservation System for Improved Space Management
+
+Problem & Context
+
+Universities often struggle to manage classroom seating effectively. Without a clear reservation system, classrooms become overcrowded, students with disabilities face difficulty finding accessible seats, and school administrators lack real-time data on how campus spaces are actually used.
+
+Objective
+
+This project introduces the Campus Classroom Seat Reservation System, a simple and intuitive web application designed to automate seat selection, organize classroom layouts, and improve the overall student experience.
+
+Key Features & Approach
+
+Designed with a focus on ease of use for all campus users, the platform includes:
+
+-> Real-Time Visual Seating: An interactive map showing available and reserved seats in real time.
+
+-> Customized User Portals: Tailored features for students (reserving seats), faculty (managing classroom layouts), and administrators (setting room capacity and schedules).
+
+-> Smart Priority System: Automatic seating options to ensure accessibility for students with special physical requirements.
+
+-> Usage Reports: Analytics tools that show administrators peak classroom usage times and overall room efficiency.
+
+Practical Impact
+
+By switching from manual seating to an organized digital system, this application prevents classroom crowding, ensures fair access for all students, and helps university leaders make smarter decisions about campus facility planning.
