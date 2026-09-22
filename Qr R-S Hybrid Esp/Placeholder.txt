@@ -1,0 +1,1 @@
+Tutorial from :- https://randomnerdtutorials.com/esp32-cam-qr-code-reader-web-server/
